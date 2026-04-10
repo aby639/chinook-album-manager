@@ -1,0 +1,6 @@
+node_modules/
+*.zip
+brief_review/
+pdf_review_word/
+pdf_text_review/
+edge_headless_profile/
